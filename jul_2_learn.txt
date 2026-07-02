@@ -13,3 +13,4 @@ To combine the content from one branch to Master; Follow the below steps
 Connect to remote repo from local repo using
    - git remote add origin <your_repo_url>
    - git push -u origin main
+-try to learn creating PR.
