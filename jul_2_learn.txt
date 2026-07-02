@@ -2,8 +2,11 @@ Git  Commands
     - Git init helps to convert working directory to local repositary.
     - Git status helps to know the status of file including what files are modified/tracked/untracked.
     - Git add helps to add the file into staging area inside local repository
-    - Git commit used to move the changes from staging area to commit area inside local repository................
     - Git commit used to move the changes from staging area to commit area inside local repository.
 Create a branch
     - Git checkout -b feature/updateJul2Note
-
+To combine the content from one branch to Master; Follow the below steps
+   - Git checkout Master
+   - Git Merge feature/updateJul2Note.
+            if there is no conflict, successful auto conflict will be done.
+   - if there is conflict, work on the files and add the files to staging and commit to resolve the merge conflict.
