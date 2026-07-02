@@ -2,4 +2,4 @@ Git  Commands
     - Git init helps to convert working directory to local repositary.
     - Git status helps to know the status of file including what files are modified/tracked/untracked.
     - Git add helps to add the file into staging area inside local repository
-    - Git commit used to move the changes from staging area to commit area inside local repository.
+    - Git commit used to move the changes from staging area to commit area inside local repository................
