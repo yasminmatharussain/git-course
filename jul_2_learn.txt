@@ -10,3 +10,6 @@ To combine the content from one branch to Master; Follow the below steps
    - Git Merge feature/updateJul2Note.
             if there is no conflict, successful auto conflict will be done.
    - if there is conflict, work on the files and add the files to staging and commit to resolve the merge conflict.
+Create remote repo using
+   - git remote add origin <your_repo_url>
+   - git push -u origin main
